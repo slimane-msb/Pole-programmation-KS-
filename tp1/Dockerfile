@@ -1,4 +1,4 @@
-FROM node:12
+FROM shershen08/react-node-js:latest
 
 # RUN apt update
 # RUN apt upgrade
